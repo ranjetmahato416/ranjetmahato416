@@ -1,9 +1,5 @@
-### Hi there 👋
 
-<!--
-**ranjetmahato416/ranjetmahato416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Am+CSIT+Student+++;Front+End+Developer;Currently+working+as+Angular+Developer)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
