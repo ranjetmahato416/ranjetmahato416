@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Am+a+Msc CS+Student+++;Angular+Developer | Front+End+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I+Am+a+MSc+CS+Student+++;Angular+Developer+|+Front+End+Developer" alt="Typing SVG" /></a>
 
 - 🔭Experienced as Angular Developer
 -  Experienced as TypeScript/JavaScript Developer
