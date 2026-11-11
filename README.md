@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-## 🚀 About Me
+# 🚀 About Me
 
 I am a passionate **Software Developer / Full-Stack Engineer** with over three years of industry experience building **scalable, maintainable web applications**. My primary expertise lies in **Angular, TypeScript, and JavaScript**, with strong hands-on experience developing and integrating **RESTful APIs using .NET (C#)**.
 
